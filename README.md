@@ -32,11 +32,11 @@ Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e foc
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jota-labs&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do jota-labs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jota-labs&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="Estatísticas do jota-labs" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-labs&layout=compact&theme=radical&hide_border=true" alt="Top Linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-labs&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Linguagens" />
 </div>
 
 ---
@@ -44,10 +44,10 @@ Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e foc
 ### 📫 Como me encontrar
 
 <div align="center">
-  <a href="https://linkedin.com/in/joaofilipe0" target="_blank">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:joaofilipe.wrk@gmail.com" target="_blank">
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
