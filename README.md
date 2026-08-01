@@ -31,13 +31,9 @@ Bem-vindo(a) ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia e foc
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jota-labs&amp;show_icons=true&amp;theme=radical&amp;hide_border=true" alt="Estatísticas do jota-labs" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota-labs&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="Top Linguagens" />
-</div>
+![Estatísticas do jota-labs](https://github-readme-stats.vercel.app/api?username=jota-labs&show_icons=true&theme=radical&hide_border=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jota-labs&layout=compact&theme=radical&hide_border=true)
 
 ---
 
